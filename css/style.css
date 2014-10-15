@@ -395,3 +395,7 @@
 		text-align: center;
 		width: 100%;
 	}
+	
+	span.copyright {
+		font-size:14px;
+	}
